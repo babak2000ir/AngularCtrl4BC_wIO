@@ -1,0 +1,20 @@
+<div class="container">
+    <h2>MockRecord Fields</h2>          
+    <table class="table table-hover">
+      <thead>
+        <tr>
+          <th>Field Name</th>
+          <th>Field Value</th>
+          <th>Change Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let field of CustomerVar">
+          <td>{{field.FieldName}}</td>
+          <td>{{field.FieldValue}}</td>
+          <td><input [(ngModel)]="field.FieldValue" placeholder="Change Value"></td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+
