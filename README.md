@@ -1,27 +1,9 @@
-# AngularHelloWorldApp
+Check the four part articles on the blog:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
+https://d365bc.wordpress.com/2018/11/15/using-an-angular-6-component-as-a-dynamics-365-business-central-control-add-in-simple-json-serializer-part-1/
 
-## Development server
+https://d365bc.wordpress.com/2018/11/15/using-an-angular-6-component-as-a-dynamics-365-business-central-control-add-in-business-central-control-add-in-object-with-bootstrap-and-jquery-part-2/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+https://d365bc.wordpress.com/2018/11/16/using-an-angular-6-component-as-a-dynamics-365-business-central-control-add-in-angular-6-app-inside-business-central-part-3/
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+https://d365bc.wordpress.com/2018/11/17/using-an-angular-6-component-as-a-dynamics-365-business-central-control-add-in-communicating-json-with-angular-6-business-central-control-add-in-part-4-last-part/
